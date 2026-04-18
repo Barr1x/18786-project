@@ -1,0 +1,16 @@
+transformers
+datasets
+tqdm
+torch
+numpy
+scipy
+gradio_client
+python-dotenv
+nltk
+openai
+sqlparse
+llamafactory
+peft
+trl
+accelerate
+bitsandbytes
