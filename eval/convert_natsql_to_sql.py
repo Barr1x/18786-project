@@ -1,8 +1,8 @@
 import json,argparse
 from datasets import load_dataset
-from natsql2sql.preprocess.sq import SubQuestion
-from natsql2sql.natsql_parser import create_sql_from_natSQL
-from natsql2sql.natsql2sql import Args
+from eval.natsql2sql.preprocess.sq import SubQuestion
+from eval.natsql2sql.natsql_parser import create_sql_from_natSQL
+from eval.natsql2sql.natsql2sql import Args
 
 
 def construct_hyper_param():
